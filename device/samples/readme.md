@@ -39,6 +39,7 @@ Place the files in the folder of your choice on the target machine/device then g
     ```
 * Replace `[IoT Device Connection String]` with the connection string for your device. Save the changes.
 * From a shell or Node.js command prompt, navigate to the folder where you placed the sample files. Run the sample application using the following commands:
+
     ```
     npm install
     node sample_file.js
